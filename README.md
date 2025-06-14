@@ -6,5 +6,5 @@
 почта - irina.pilatova@gmail.com
 
 [![Telegram](icons/telegram.png)](https://t.me/irinapilatova)
-[![HeadHunter](icons/hh.png)](https://hh.ru/resume/5acdd230ff0947b7da0039ed1f554b716d657a)
+[![HeadHunter](icons/hh.png)](https://kaluzhskaya-opytnaya40.hh.ru/resume/9014d9ddff0c7ec2cb0039ed1f7a654d525952)
 [![GitHub](icons/github.png)](https://github.com/IPilatova)
